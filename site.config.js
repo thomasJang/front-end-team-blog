@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'ax5ui',
+  twitter: 'querypie',
   github: 'chequer-io',
   linkedin: 'company/querypie-01',
 
