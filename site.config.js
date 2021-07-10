@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'e8be83883117401baf3cfcd17b1f1d92',
+  rootNotionPageId: 'QueryPie-Front-end-Team-Blog-e8be83883117401baf3cfcd17b1f1d92',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: '',
 
   // basic site info (required)
-  name: 'thomasjang',
-  domain: 'thomasjang',
-  author: 'thomasjang',
+  name: '',
+  domain: 'https://front-end-team-blog.vercel.app',
+  author: 'CHEQUER',
 
   // open graph metadata (optional)
   description: 'Example site description',
