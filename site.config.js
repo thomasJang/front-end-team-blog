@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '',
-  domain: 'https://front-end-team-blog.vercel.app',
+  domain: 'frontend.querypie.com',
   author: 'CHEQUER',
 
   // open graph metadata (optional)
